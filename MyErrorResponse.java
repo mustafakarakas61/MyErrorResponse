@@ -1,4 +1,4 @@
-package com.mustafa.newsclipper.utils;
+//PAKET İSMİ
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;
